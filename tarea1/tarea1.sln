@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea1", "tarea1\tarea1.csproj", "{75A1C8CC-235A-443A-8C51-1E19A8E85695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A1C8CC-235A-443A-8C51-1E19A8E85695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A1C8CC-235A-443A-8C51-1E19A8E85695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A1C8CC-235A-443A-8C51-1E19A8E85695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A1C8CC-235A-443A-8C51-1E19A8E85695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
